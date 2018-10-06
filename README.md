@@ -10,7 +10,7 @@ arranged to fill the whole poster, then you can change the final layout,
 dimensions, border or swap photos in the generated grid. 
 There are multiple layouts created based on different number of input images. 
 
-##Features:
+## Features:
 -----------
 * Generates multiple layouts to avail various options for the user
 * Possible to swap photos in the generated grid by random shuffling
@@ -18,7 +18,7 @@ There are multiple layouts created based on different number of input images.
 * Works well even with a large number of photos (> 20)
 * Output collage has the company logo on bottom right corner with color contrasting the background intensity
 
-##Project Setup
+## Project Setup
 ---------------
 Follow these instructions to get this project set up correctly.
 
@@ -28,7 +28,7 @@ Python Project Template supports the following versions out of the box:
 
 * Python 3.3+
 
-###Instructions
+### Instructions
 
 1. Clone the github project:
 
@@ -61,10 +61,9 @@ Python Project Template supports the following versions out of the box:
 			                    saved
 			-t TEXT, --text TEXT  text that you want to display on final collages
 
-## Authors
+## Author
 ----------
 * Pranav Gundewar
-* Ashwini Prabhu
 
 ## Contribution
 ---------------
