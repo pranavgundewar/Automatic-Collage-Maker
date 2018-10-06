@@ -1,0 +1,11 @@
+Flask
+Flask-Bootstrap
+Pillow
+requests
+opencv-contrib-python
+os 
+sys
+time
+random
+argparse
+werkzeug
